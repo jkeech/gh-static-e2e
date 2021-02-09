@@ -21,7 +21,7 @@ const App = () => {
         <div className="container">
           <div className="hero is-info is-bold">
             <div className="hero-body">
-              <h1 className="is-size-1">Products</h1>
+              <h1 className="is-size-1">My Products</h1>
             </div>
           </div>
         </div>
